@@ -1,5 +1,2 @@
-# hello_world
-I'm learning how to use github.
-Edit 1
-Edit 2
-Edit 3
+# hello world
+This is not a real project. I'm just learning how to use github.
